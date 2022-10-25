@@ -13,3 +13,7 @@ hello_vibha <- function() {
 hello_sandra <- function() {
   print("Hello Sandra")
 }
+
+hello_tanya <- function() {
+  print("Hi. I'm Tanya!")
+}
